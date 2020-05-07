@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color:black;
+    margin: 20px 50px;
+}
+header{
+    background-color:crimson;
+}
+header a{
+    text-decoration: none;
+    
+}
+header h1{
+    text-align: center;
+}
+.container{
+    background-color: chartreuse;
+    margin: 10px auto;
+}
+.container img{
+    position: relative;
+    left:450px;
+    top:20px;
+    width: 250px;
+    height: 300px;
+}
+.container p{
+    margin: 20px 100px;
+}
